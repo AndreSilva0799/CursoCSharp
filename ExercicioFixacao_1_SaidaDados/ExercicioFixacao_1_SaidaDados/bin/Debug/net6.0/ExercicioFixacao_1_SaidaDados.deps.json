@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioFixacao_1_SaidaDados/1.0.0": {
+        "runtime": {
+          "ExercicioFixacao_1_SaidaDados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioFixacao_1_SaidaDados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
