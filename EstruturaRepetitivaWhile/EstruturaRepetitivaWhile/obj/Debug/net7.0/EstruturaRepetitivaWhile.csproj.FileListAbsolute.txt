@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net7.0\EstruturaRepetitivaWhile.exe
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net7.0\EstruturaRepetitivaWhile.deps.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net7.0\EstruturaRepetitivaWhile.runtimeconfig.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net7.0\EstruturaRepetitivaWhile.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net7.0\EstruturaRepetitivaWhile.pdb
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net7.0\EstruturaRepetitivaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net7.0\EstruturaRepetitivaWhile.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net7.0\EstruturaRepetitivaWhile.AssemblyInfo.cs
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net7.0\EstruturaRepetitivaWhile.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net7.0\EstruturaRepetitivaWhile.sourcelink.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net7.0\EstruturaRepetitivaWhile.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net7.0\refint\EstruturaRepetitivaWhile.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net7.0\EstruturaRepetitivaWhile.pdb
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net7.0\EstruturaRepetitivaWhile.genruntimeconfig.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net7.0\ref\EstruturaRepetitivaWhile.dll

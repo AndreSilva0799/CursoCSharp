@@ -27,3 +27,4 @@ C:\Users\Atto\Documents\Andre\CursoCSharp\CursoCSharp\Course\Course\obj\Debug\ne
 C:\Users\Atto\Documents\Andre\CursoCSharp\CursoCSharp\Course\Course\obj\Debug\net6.0\Course.pdb
 C:\Users\Atto\Documents\Andre\CursoCSharp\CursoCSharp\Course\Course\obj\Debug\net6.0\Course.genruntimeconfig.cache
 C:\Users\Atto\Documents\Andre\CursoCSharp\CursoCSharp\Course\Course\obj\Debug\net6.0\ref\Course.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\Course\Course\obj\Debug\net6.0\Course.sourcelink.json

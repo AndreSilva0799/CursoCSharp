@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Atto\\.nuget\\packages\\": {},
+    "C:\\Users\\andre\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Atto\\Documents\\Andre\\CursoCSharp\\CursoCSharp\\Course\\Course\\Course.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Course\\Course\\Course.csproj",
       "projectName": "Course",
-      "projectPath": "C:\\Users\\Atto\\Documents\\Andre\\CursoCSharp\\CursoCSharp\\Course\\Course\\Course.csproj",
-      "packagesPath": "C:\\Users\\Atto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Atto\\Documents\\Andre\\CursoCSharp\\CursoCSharp\\Course\\Course\\obj\\",
+      "projectPath": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Course\\Course\\Course.csproj",
+      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Course\\Course\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Atto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -46,6 +46,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

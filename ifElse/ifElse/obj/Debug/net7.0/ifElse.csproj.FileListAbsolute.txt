@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\bin\Debug\net7.0\ifElse.exe
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\bin\Debug\net7.0\ifElse.deps.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\bin\Debug\net7.0\ifElse.runtimeconfig.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\bin\Debug\net7.0\ifElse.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\bin\Debug\net7.0\ifElse.pdb
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\obj\Debug\net7.0\ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\obj\Debug\net7.0\ifElse.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\obj\Debug\net7.0\ifElse.AssemblyInfo.cs
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\obj\Debug\net7.0\ifElse.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\obj\Debug\net7.0\ifElse.sourcelink.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\obj\Debug\net7.0\ifElse.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\obj\Debug\net7.0\refint\ifElse.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\obj\Debug\net7.0\ifElse.pdb
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\obj\Debug\net7.0\ifElse.genruntimeconfig.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\ifElse\ifElse\obj\Debug\net7.0\ref\ifElse.dll

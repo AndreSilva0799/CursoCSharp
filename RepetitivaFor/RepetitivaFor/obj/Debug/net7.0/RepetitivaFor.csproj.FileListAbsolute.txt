@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\bin\Debug\net7.0\RepetitivaFor.exe
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\bin\Debug\net7.0\RepetitivaFor.deps.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\bin\Debug\net7.0\RepetitivaFor.runtimeconfig.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\bin\Debug\net7.0\RepetitivaFor.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\bin\Debug\net7.0\RepetitivaFor.pdb
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\obj\Debug\net7.0\RepetitivaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\obj\Debug\net7.0\RepetitivaFor.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\obj\Debug\net7.0\RepetitivaFor.AssemblyInfo.cs
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\obj\Debug\net7.0\RepetitivaFor.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\obj\Debug\net7.0\RepetitivaFor.sourcelink.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\obj\Debug\net7.0\RepetitivaFor.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\obj\Debug\net7.0\refint\RepetitivaFor.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\obj\Debug\net7.0\RepetitivaFor.pdb
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\obj\Debug\net7.0\RepetitivaFor.genruntimeconfig.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\RepetitivaFor\RepetitivaFor\obj\Debug\net7.0\ref\RepetitivaFor.dll
