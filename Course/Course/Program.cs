@@ -1,34 +1,48 @@
-﻿using System;
+﻿using Course;
+using System;
 using System.Globalization;
 namespace PrimeiroProjeto
- 
+
 {
     internal class Program
     {
         static void Main(string[] args)
         {
 
-            int a = 10;
-            bool c1 = a < 10; // bool por que é to tipo boleano, no java seria bolean
-            bool c2 = a < 20;
-            bool c3 = a > 10;
-            bool c4 = a > 5;
+            Triangulo x, y;
 
-            Console.WriteLine(c1);
-            Console.WriteLine(c2);
-            Console.WriteLine(c3);
-            Console.WriteLine(c4);
-            Console.WriteLine("---------------------------------------------");
+            x = new Triangulo();
+            y = new Triangulo();
 
-            bool c5 = a <= 10;
-            bool c6 = a >= 10;
-            bool c7 = a == 10;
-            bool c8 = a != 10;
+            Console.WriteLine("Entre com as medidas do triangulo X:");
+            x.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine(c5);
-            Console.WriteLine(c6);
-            Console.WriteLine(c7);
-            Console.WriteLine(c8);
+            Console.WriteLine("Entre com as medidas do triangulo Y:");
+
+            y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            double p = (x.A + x.B + x.C) / 2.0;
+            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
+
+            p = (y.A + y.B + y.C) / 2.0;
+            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+
+            Console.WriteLine("Area de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
+            Console.WriteLine("Area de Y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));
+
+            if (areaX > areaY)
+            {
+                Console.WriteLine("Maior area: X");
+            }
+            else
+            {
+                Console.WriteLine("Maior area: Y");
+            }
+
         }
     }
 }
