@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7AAA66-FAE4-4D78-9169-E1D21E80D09E}|Classes\\Classes.csproj|c:\\users\\andre\\documents\\andre\\estudos\\cursocsharp\\classes\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7AAA66-FAE4-4D78-9169-E1D21E80D09E}|Classes\\Classes.csproj|solutionrelative:classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7AAA66-FAE4-4D78-9169-E1D21E80D09E}|Classes\\Classes.csproj|c:\\users\\andre\\documents\\andre\\estudos\\cursocsharp\\classes\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7AAA66-FAE4-4D78-9169-E1D21E80D09E}|Classes\\Classes.csproj|solutionrelative:classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Classes\\Classes\\Produto.cs",
+              "RelativeDocumentMoniker": "Classes\\Produto.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Classes\\Classes\\Produto.cs",
+              "RelativeToolTip": "Classes\\Produto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:50:43.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Classes\\Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Classes\\Classes\\Program.cs",
+              "RelativeToolTip": "Classes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:48:14.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
