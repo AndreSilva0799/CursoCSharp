@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Exercicio_3_ClassesAtributosMetodos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{328D2EC6-DD57-4B01-B354-AFA6FAD9F79C}|Exercicio_3_ClassesAtributosMetodos\\Exercicio_3_ClassesAtributosMetodos.csproj|c:\\users\\andre\\documents\\andre\\estudos\\cursocsharp\\exercicio_3_classesatributosmetodos\\exercicio_3_classesatributosmetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328D2EC6-DD57-4B01-B354-AFA6FAD9F79C}|Exercicio_3_ClassesAtributosMetodos\\Exercicio_3_ClassesAtributosMetodos.csproj|solutionrelative:exercicio_3_classesatributosmetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328D2EC6-DD57-4B01-B354-AFA6FAD9F79C}|Exercicio_3_ClassesAtributosMetodos\\Exercicio_3_ClassesAtributosMetodos.csproj|c:\\users\\andre\\documents\\andre\\estudos\\cursocsharp\\exercicio_3_classesatributosmetodos\\exercicio_3_classesatributosmetodos\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328D2EC6-DD57-4B01-B354-AFA6FAD9F79C}|Exercicio_3_ClassesAtributosMetodos\\Exercicio_3_ClassesAtributosMetodos.csproj|solutionrelative:exercicio_3_classesatributosmetodos\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Exercicio_3_ClassesAtributosMetodos\\Exercicio_3_ClassesAtributosMetodos\\Aluno.cs",
+              "RelativeDocumentMoniker": "Exercicio_3_ClassesAtributosMetodos\\Aluno.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Exercicio_3_ClassesAtributosMetodos\\Exercicio_3_ClassesAtributosMetodos\\Aluno.cs",
+              "RelativeToolTip": "Exercicio_3_ClassesAtributosMetodos\\Aluno.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:05:19.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Exercicio_3_ClassesAtributosMetodos\\Exercicio_3_ClassesAtributosMetodos\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_3_ClassesAtributosMetodos\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Exercicio_3_ClassesAtributosMetodos\\Exercicio_3_ClassesAtributosMetodos\\Program.cs",
+              "RelativeToolTip": "Exercicio_3_ClassesAtributosMetodos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:00:45.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
