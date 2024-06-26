@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6DR7lJ+817u4FWMOao+L2nvDL3M8yz+HoWqTh/P1H2F0bYEl1Bp00xJ+qGt5ss2H6suIR6wBhoZ6Q9WeWjvXTg==",
+  "dgSpecHash": "xV/SPU2PfvOJp4I2/886DrZe5cqRF7LNH90pkwdqP9X4ofRPjx90MR+STZnZTByA7LJfGf0+1q3W//lWm9HBZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\EstruturaRepetitivaWhile\\EstruturaRepetitivaWhile\\EstruturaRepetitivaWhile.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Atto\\Documents\\Andre\\CursoCSharp\\CursoCSharp\\EstruturaRepetitivaWhile\\EstruturaRepetitivaWhile\\EstruturaRepetitivaWhile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Atto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Atto\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Atto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Atto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

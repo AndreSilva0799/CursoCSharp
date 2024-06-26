@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JsE6WSgna6dyAgDD+T9vt/Yo+2ghSoprApNZ5Fgm3vF0/yovC8+KPnaoOrudVGOVyW1SRI8FD+FqywFX/MU4oQ==",
+  "dgSpecHash": "dOaPvqr3BLDDxrAGpsN0UO15C1RPYyQw0r9eIThtQvOblgZjRY+ChlrV8fbzY5N4sZ/uYNvW/wQeM1BqyqbeWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\ExercicioFixacao_2_SaidaEntradaDados\\ExercicioFixacao_2_SaidaEntradaDados\\ExercicioFixacao_2_SaidaEntradaDados.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Atto\\Documents\\Andre\\CursoCSharp\\CursoCSharp\\ExercicioFixacao_2_SaidaEntradaDados\\ExercicioFixacao_2_SaidaEntradaDados\\ExercicioFixacao_2_SaidaEntradaDados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Atto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Atto\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Atto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Atto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
