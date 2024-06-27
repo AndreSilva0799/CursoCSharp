@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kfS70iaHEQwpj/sw/IA+MTFYMJDdiR2RV7eOBUmEEPH6N+R2KEwn1k42ctBYi8GeLj9fwWlpR78BRHIQQdC4Hg==",
+  "dgSpecHash": "Va+Er6G68NWZ4zHqPxK4zTBbcKFaCyw8Y4Cu6ChHbVF8tPtyfpOOVbzeJtVATvPwbtm/RyNIZHy2QcXpy82UTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\Documents\\Andre\\ESTUDOS\\CursoCSharp\\Exercicio_3_ClassesAtributosMetodos\\Exercicio_3_ClassesAtributosMetodos\\Exercicio_3_ClassesAtributosMetodos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Atto\\Documents\\Andre\\CursoCSharp\\CursoCSharp\\Exercicio_3_ClassesAtributosMetodos\\Exercicio_3_ClassesAtributosMetodos\\Exercicio_3_ClassesAtributosMetodos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Atto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Atto\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Atto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Atto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
