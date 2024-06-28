@@ -37,6 +37,9 @@ namespace Exercicio_Construtor_This_Sobrecarga // Note: actual namespace depends
 
             Console.WriteLine(b);
 
+            Console.Write("Entre um valor do depósito: ");
+            double deposito = 
+
         }
     }
 }

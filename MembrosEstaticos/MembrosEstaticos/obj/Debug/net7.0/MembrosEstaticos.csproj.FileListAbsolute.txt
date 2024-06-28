@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.exe
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.deps.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.runtimeconfig.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net7.0\MembrosEstaticos.pdb
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.sourcelink.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\refint\MembrosEstaticos.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.pdb
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\MembrosEstaticos.genruntimeconfig.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net7.0\ref\MembrosEstaticos.dll

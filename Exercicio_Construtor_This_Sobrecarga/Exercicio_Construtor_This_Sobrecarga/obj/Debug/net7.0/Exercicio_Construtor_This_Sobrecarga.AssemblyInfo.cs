@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio_Construtor_This_Sobrecarga")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73d3a6cf246606f0557b746d32f9ab0e9fcff40c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee13384e0ce3b7366f3ee23ae24b5506bcd62ca0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercicio_Construtor_This_Sobrecarga")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercicio_Construtor_This_Sobrecarga")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

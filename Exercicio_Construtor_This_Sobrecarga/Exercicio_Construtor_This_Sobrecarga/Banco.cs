@@ -79,7 +79,7 @@ namespace Exercicio_Construtor_This_Sobrecarga
 
         public override string ToString()
         {
-            return "Conta " + _conta + ", Titular: " + _nome + ", Saldo: " + _saldo.ToString("F2", CultureInfo.InvariantCulture);
+            return "Conta " + _conta + ", Titular: " + _nome + ", Saldo: $" + _saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
 
     }
