@@ -40,6 +40,18 @@ namespace Exercicio_Construtor_This_Sobrecarga
 
         }
 
+        public void acaoDeposito(double deposito) 
+        {
+            this._saldo += deposito;
+        }
+
+        public void acaoSaque(double saque)
+        {
+            this._saldo -= (saque + 5.00);
+            
+        }
+
+
         public int Conta
         {
             get { return _conta; }

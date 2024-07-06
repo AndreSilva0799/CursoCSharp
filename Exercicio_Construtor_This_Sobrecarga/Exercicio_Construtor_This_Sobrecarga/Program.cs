@@ -19,13 +19,13 @@ namespace Exercicio_Construtor_This_Sobrecarga // Note: actual namespace depends
 
             string opcao = Console.ReadLine();
             double deposito;
-
+            b = new Banco(conta, nome);
             switch (opcao.ToLower())
             {
                 case "s":
 
                     Console.Write("Entre o valor de deposito inicial:");
-                     deposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    deposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                     b = new Banco(conta, nome, deposito);
 
                     break;
@@ -39,8 +39,18 @@ namespace Exercicio_Construtor_This_Sobrecarga // Note: actual namespace depends
             Console.WriteLine(b);
 
             Console.Write("Entre um valor do depósito: ");
-            deposito = double.Parse(Console.ReadLine(), CultureInfo.InstalledUICulture);
+            deposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            b.acaoDeposito(deposito);
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(b);
+
+            Console.Write("Entre um valor para saque: ");
+            double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            b.acaoSaque(saque);
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(b);
+           
         }
     }
 }
