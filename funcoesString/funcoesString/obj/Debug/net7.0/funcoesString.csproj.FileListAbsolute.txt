@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\bin\Debug\net7.0\funcoesString.exe
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\bin\Debug\net7.0\funcoesString.deps.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\bin\Debug\net7.0\funcoesString.runtimeconfig.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\bin\Debug\net7.0\funcoesString.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\bin\Debug\net7.0\funcoesString.pdb
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\obj\Debug\net7.0\funcoesString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\obj\Debug\net7.0\funcoesString.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\obj\Debug\net7.0\funcoesString.AssemblyInfo.cs
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\obj\Debug\net7.0\funcoesString.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\obj\Debug\net7.0\funcoesString.sourcelink.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\obj\Debug\net7.0\funcoesString.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\obj\Debug\net7.0\refint\funcoesString.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\obj\Debug\net7.0\funcoesString.pdb
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\obj\Debug\net7.0\funcoesString.genruntimeconfig.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\funcoesString\funcoesString\obj\Debug\net7.0\ref\funcoesString.dll

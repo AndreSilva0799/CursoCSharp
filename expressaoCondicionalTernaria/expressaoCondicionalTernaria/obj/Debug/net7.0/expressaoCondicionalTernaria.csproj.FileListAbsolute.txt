@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\bin\Debug\net7.0\expressaoCondicionalTernaria.exe
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\bin\Debug\net7.0\expressaoCondicionalTernaria.deps.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\bin\Debug\net7.0\expressaoCondicionalTernaria.runtimeconfig.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\bin\Debug\net7.0\expressaoCondicionalTernaria.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\bin\Debug\net7.0\expressaoCondicionalTernaria.pdb
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\obj\Debug\net7.0\expressaoCondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\obj\Debug\net7.0\expressaoCondicionalTernaria.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\obj\Debug\net7.0\expressaoCondicionalTernaria.AssemblyInfo.cs
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\obj\Debug\net7.0\expressaoCondicionalTernaria.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\obj\Debug\net7.0\expressaoCondicionalTernaria.sourcelink.json
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\obj\Debug\net7.0\expressaoCondicionalTernaria.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\obj\Debug\net7.0\refint\expressaoCondicionalTernaria.dll
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\obj\Debug\net7.0\expressaoCondicionalTernaria.pdb
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\obj\Debug\net7.0\expressaoCondicionalTernaria.genruntimeconfig.cache
+C:\Users\andre\Documents\Andre\ESTUDOS\CursoCSharp\expressaoCondicionalTernaria\expressaoCondicionalTernaria\obj\Debug\net7.0\ref\expressaoCondicionalTernaria.dll
